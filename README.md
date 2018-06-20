@@ -1,5 +1,8 @@
 # LoadBalancer
 
+[![codebeat badge](https://codebeat.co/badges/da2b872c-ffde-40ca-a9aa-f784f9626870)](https://codebeat.co/projects/github-com-ousheobin-load-balancer-server-master)
+
+
 Java 课程设计 轻量级的集群负载均衡设计
 
 这个是一个建立在应用层的负载分发软件，灵感来源于Nginx，通过各个客户端中的Client，获取各个客户端的状态，从而实现知道哪些服务器比较繁忙，把繁忙的服务器切出服务器列表，直至负载下降。
