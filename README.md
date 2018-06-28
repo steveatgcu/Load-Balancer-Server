@@ -1,6 +1,6 @@
 # LoadBalancer
 
-[![codebeat badge](https://codebeat.co/badges/da2b872c-ffde-40ca-a9aa-f784f9626870)](https://codebeat.co/projects/github-com-ousheobin-load-balancer-server-master)
+[![codebeat badge](https://codebeat.co/badges/a37f6b04-cfc5-4332-a31d-360cd5472396)](https://codebeat.co/projects/github-com-ousheobin-load-balancer-server-master)
 
 
 Java 课程设计 轻量级的集群负载均衡设计
